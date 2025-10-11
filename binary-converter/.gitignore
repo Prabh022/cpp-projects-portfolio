@@ -1,0 +1,28 @@
+# Build artifacts
+*.o
+*.out
+*.exe
+
+# IDE folders
+.vscode/
+.idea/
+*.suo
+*.user
+*.vcxproj.*
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Ignore Visual Studio folders and cache
+.vs/
+*.vcxproj.*
+*.suo
+*.user
+*.ipch
+*.obj
+*.log
+*.tlog
+*.idb
+*.pdb
